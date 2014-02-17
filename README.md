@@ -1,6 +1,6 @@
 # Archetype-test 
 
-[![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-test.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-test) 
+[![Build Status](https://secure.travis-ci.org/Archetype-CSS/o-alert.png?branch=master)](http://travis-ci.org/Archetype-CSS/o-alert) 
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
