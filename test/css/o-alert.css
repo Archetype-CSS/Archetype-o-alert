@@ -1,0 +1,18 @@
+/**
+ * Test: Archetype/u-text.scss
+ *
+ */
+/*** @export "alert-object" css */
+/**
+ * Alert Object
+ * 
+ */
+/* line 6, ../../_o-alert.scss */
+.o-alert, .test__o-alert {
+  display: block;
+  position: relative;
+}
+
+/**
+ * example test class
+ */
