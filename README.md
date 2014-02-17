@@ -11,12 +11,7 @@ Archetype object for building alert components.
   * Git: `git clone https://github.com/Archetype-CSS/o-alert.git`
 
 ## Use
-  * `test-title--structure` - structure styles for the test title
-  * `test-title--skin` - skin styles for the test title
-  * `test-description--structure` - structure styles for the test description
-  * `test-description--skin` - skin styles for the test description
-  * `test--structure` - structure styles for the test
-  * `test--skin` - skin styles for the test
+  * `o-alert` - apply object styles for an alert component
 
 ## Run the Test Locally
 
