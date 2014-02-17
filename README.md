@@ -1,8 +1,4 @@
-# Archetype-test 
-
-[![Build Status](https://secure.travis-ci.org/Archetype-CSS/o-alert.png?branch=master)](http://travis-ci.org/Archetype-CSS/o-alert) 
-
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# o-alert [![Build Status](https://secure.travis-ci.org/Archetype-CSS/o-alert.png?branch=master)](http://travis-ci.org/Archetype-CSS/o-alert) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Archetype object for building alert components.
 
